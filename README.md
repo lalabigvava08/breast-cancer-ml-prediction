@@ -1,7 +1,7 @@
 # Breast_Cancer_ml_Prediction
 Machine learning models to predict breast cancer mortality and survival months using classification and regression techniques in Python.
 
-# Breast Cancer Mortality & Survival Prediction (Machine Learning)
+# Breast Cancer Mortality & Survival Prediction 
 
 # Project Overview
 This project was developed as part of a Data Mining coursework. The aim was to build machine learning models to predict:
